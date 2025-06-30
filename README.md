@@ -79,3 +79,25 @@ Based on the details, this wireframe is a:
 
 It includes detailed elements such as colors, images, icons, and styled text. This makes it visually close to the final product. High-fidelity wireframes are typically used in the **later stages** of design to present how the product will look and feel before development starts.
 
+---
+
+## Wireframing Tools
+
+There are many tools you can use to make wireframes. Some popular ones include:
+
+- **Figma**
+- Adobe XD
+- Balsamiq
+- Sketch
+- Pencil Project
+
+### Why Use Figma?
+
+Figma is one of the best tools for wireframing because:
+
+- It works online in your browser
+- It lets multiple people design together (real-time collaboration)
+- It has ready-made elements you can drag and drop
+- You can create both wireframes and full prototypes
+
+Figma is simple to use and great for beginners!
