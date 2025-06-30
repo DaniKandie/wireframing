@@ -65,8 +65,6 @@ These are more detailed designs. They look like real screens.
 
 ---
 
----
-
 ## Example Wireframe Analysis
 
 I reviewed the wireframe from the ALX platform [here](https://savanna.alxafrica.com/rltoken/HnTbrzrJX1IfPIxugo8Uvw).
