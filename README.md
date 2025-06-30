@@ -65,6 +65,19 @@ These are more detailed designs. They look like real screens.
 
 ---
 
-## What Type of Wireframe is This?
+---
 
-If you have a wireframe image (for example, from Figma), you can upload it and explain if it is low-fidelity or high-fidelity based on how simple or detailed it looks.
+## Example Wireframe Analysis
+
+I reviewed the wireframe from the ALX platform [here](https://savanna.alxafrica.com/rltoken/HnTbrzrJX1IfPIxugo8Uvw).
+
+### What Type of Wireframe is It?
+
+Based on the details, this wireframe is a:
+
+**High-Fidelity Wireframe**
+
+### Reason:
+
+It includes detailed elements such as colors, images, icons, and styled text. This makes it visually close to the final product. High-fidelity wireframes are typically used in the **later stages** of design to present how the product will look and feel before development starts.
+
