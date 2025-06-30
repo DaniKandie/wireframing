@@ -38,3 +38,33 @@ Where text, images, and other elements are placed on the page.
 Basic interactions that should be available in the layout — like buttons, forms, and input fields.
 
 *Example:* A "Search" bar that lets users type and look for something.
+
+---
+
+## Types of Wireframes
+
+Wireframes can be simple or very detailed. These are the two types:
+
+### Low-Fidelity Wireframes
+These are simple black-and-white sketches with boxes and lines.
+
+- Quick to create
+- Focus only on structure and layout
+- No colors or images
+
+*Used in the early design stage to plan the basic look.*
+
+###  High-Fidelity Wireframes
+These are more detailed designs. They look like real screens.
+
+- Include fonts, colors, icons, and real text
+- Show exactly what the final product will look like
+- Can be turned into a prototype
+
+*Used in later stages to show exactly how everything will work.*
+
+---
+
+## What Type of Wireframe is This?
+
+If you have a wireframe image (for example, from Figma), you can upload it and explain if it is low-fidelity or high-fidelity based on how simple or detailed it looks.
